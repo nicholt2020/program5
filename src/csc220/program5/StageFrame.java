@@ -41,7 +41,7 @@ public class StageFrame extends javax.swing.JFrame {
         camera = new Camera();
         chosenCharacter = null;
         gameOver = false;
-        characters.add(new csc220.program5.nicholt2020.BlockHead(10, 30, 60, 60, 200));
+        characters.add(new csc220.program5.nicholt2020.Dog(100, 30, 60, 60, 200));
     }
     
     //  The main JPanel i the frame is built from this class.

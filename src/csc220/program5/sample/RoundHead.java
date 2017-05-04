@@ -35,6 +35,7 @@ package csc220.program5.sample;
     Modified 14-Apr-2017 kw
     + extends GameCharacter
 */
+import csc220.program5.nicholt2020.List;
 import java.awt.*;
 
 public class RoundHead extends csc220.program5.GameCharacter { // RoundHead
